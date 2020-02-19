@@ -1,4 +1,4 @@
-package AnalizarVariables;
+package Prueba;
 
 import java.io.BufferedReader;
 import java.io.IOException;

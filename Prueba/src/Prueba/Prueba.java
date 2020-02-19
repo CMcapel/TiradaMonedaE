@@ -1,6 +1,8 @@
-package AnalizarVariables;
+package Prueba;
 
-public class AnalizarVariables {
+import Prueba.Entrada;
+
+public class Prueba {
 
 	public static void main(String[] args) {
 		int numero;
